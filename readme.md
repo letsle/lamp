@@ -1,4 +1,4 @@
-# Lâmpada
+# Lâmpada💡
 
 ## Desenvolvi essa página onde podemos interagir ligando, desligando e quebrando a lâmpada  para praticar HTML,CSS e JavaScript 👩🏽‍💻
 
